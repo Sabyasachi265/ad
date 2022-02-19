@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background : yellow;
+    }
+    
+    .Ez{
+        background-color: darkcyan;
+        color: blue;
+    }
+    
+    .Ez p{
+        font-family:Arial, Helvetica, sans-serif;
+        color: red;
+        letter-spacing: 2px;
+        font-size: 12px;
+        font-weight: bold;
+    }
+    
+    .Yes button{
+    font-family:cursive;
+     margin-top: 30px;
+     width: 130px;
+     font-weight: bolder;
+     letter-spacing: 3px;
+    }
+    
+    #footer{
+        position: fixed;
+        bottom: 0;
+        color: lightsalmon;
+        background-color: green;
+        width: 100%;
+        font-size: 18px;
+        text-align: center;
+        text-shadow: 5px 5px 5px midnightblue;
+    }
+    
+    #sound{
+        color: brown;
+    }
+    
+    #accuracy{
+        color: violet;
+    }
